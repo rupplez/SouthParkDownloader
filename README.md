@@ -1,2 +1,2 @@
 # SouthParkDownloader
-Downloads from the official site(www.southparkstudios.com)
+Downloads from the official site(www.southparkstudios.com).
