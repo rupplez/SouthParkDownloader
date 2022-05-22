@@ -1,3 +1,2 @@
 # SouthParkDownloader
-Downloads from the official site(www.southparkstudios.com).
-*Based on yt-dlp and ffmpeg library.
+Downloads from the official site(www.southparkstudios.com) using yt-dlp and ffmpeg library.
