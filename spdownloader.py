@@ -30,7 +30,7 @@ def download(URL):
 
 	ffmpeg.input(video_title+".txt", format='concat', safe=0).output(video_title+".mp4", c='copy').run()
 
-print("South Park Downloader # ver 0.1")
+print("South Park Downloader # ver 0.2")
 print("Downloads from the official site(www.southparkstudios.com)")
 
 while 1:
